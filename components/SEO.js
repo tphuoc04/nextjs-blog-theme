@@ -18,6 +18,7 @@ export default function SEO({ title, description }) {
       <meta name="description" content={`vaxypeuty`} />
       <meta property="og:title" content={title} />
       <meta property="og:title" content={title} />
+      <link rel="icon" href="images/reallymad.png" />
     </Head>
   );
 }
