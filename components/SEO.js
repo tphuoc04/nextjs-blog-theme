@@ -19,6 +19,7 @@ export default function SEO({ title, description }) {
       <meta property="og:title" content={title} />
       <meta property="og:title" content={title} />
       <link rel="icon" href="/images/reallymad.png" />
+      <link rel="icon" href="/images/reallymad.png" />
     </Head>
   );
 }
